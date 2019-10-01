@@ -4,11 +4,15 @@
       <list>
         <UrlAndUserName>
           <option name="url" value="http://git.sec.samsung.net" />
-          <option name="userName" value=" annie.f" />
+          <option name="userName" value=" annie.f@samsung.com" />
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="http://github.sec.samsung.net" />
           <option name="userName" value="annie.f" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="half-bot" />
         </UrlAndUserName>
       </list>
     </option>
