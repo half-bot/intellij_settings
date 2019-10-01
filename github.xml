@@ -3,8 +3,5 @@
     <account id="4c99d9a1-6379-47e5-ba74-c7af25c148c2" name="annie.f">
       <server useHttp="false" host="github.sec.samsung.net" />
     </account>
-    <account id="334a5a37-eae1-49e5-b62b-4680592c9d25" name="half-bot">
-      <server host="github.com" />
-    </account>
   </component>
 </application>
