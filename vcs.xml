@@ -14,6 +14,10 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="half-bot" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.ecodesamsung.com" />
+          <option name="userName" value="annie-f" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
