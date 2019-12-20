@@ -6,8 +6,11 @@
     <account id="8c5478f2-aaa3-4fff-b249-1ca9d43d3c04" name="half-bot">
       <server useHttp="false" host="github.com" />
     </account>
-    <account id="1e84c69e-87f7-438b-8c1d-9abcd07cb5a4" name="annie-f">
+    <account id="37f856d7-a796-4f7d-8030-d71aeaf3962b" name="annie-f">
       <server useHttp="false" host="github.ecodesamsung.com" />
     </account>
+  </component>
+  <component name="GithubSettings">
+    <option name="CLONE_GIT_USING_SSH" value="true" />
   </component>
 </application>
