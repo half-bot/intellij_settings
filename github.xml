@@ -6,7 +6,7 @@
     <account id="8c5478f2-aaa3-4fff-b249-1ca9d43d3c04" name="half-bot">
       <server useHttp="false" host="github.com" />
     </account>
-    <account id="787dc9ad-295e-4c6e-ae95-51209fa12dbb" name="annie-f">
+    <account id="fd97b5ba-1a07-4940-8e05-31364d6ff63d" name="annie-f">
       <server useHttp="false" host="github.ecodesamsung.com" />
     </account>
   </component>
